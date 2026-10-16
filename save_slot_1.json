@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "checkpoint_room": "sanctuary_hub",
+  "checkpoint_pos": [
+    140,
+    192
+  ],
+  "max_hp": 5,
+  "hp": 5,
+  "lumen": 0,
+  "echoes": 0,
+  "weapon_level": 1,
+  "abilities": {
+    "shadow_dash": false,
+    "solar_lance": false,
+    "abyssal_dive": false,
+    "monarch_wings": false
+  },
+  "owned_relics": [],
+  "equipped_relics": [],
+  "lore_unlocked": [],
+  "defeated_bosses": [],
+  "collected_items": [],
+  "visited_rooms": [
+    "sanctuary_hub"
+  ],
+  "broken_floors": [],
+  "quests": {},
+  "story_flags": {
+    "met_caelum": false,
+    "met_orin": false,
+    "met_veyla": false,
+    "met_solen": false,
+    "pelorus_opened": false
+  }
+}
